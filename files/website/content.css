@@ -1,0 +1,14 @@
+.heading{
+    text-align: left;
+    word-spacing: 5px;
+    font-size: 30px;
+    color: rgb(14, 14, 45);
+}
+.matter{
+    text-align: justify;
+    text-indent: 300px;
+    word-spacing: 5px;
+    line-height: 40px;
+    font-size: 20px;
+    color: white;
+}

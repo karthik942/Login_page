@@ -1,0 +1,29 @@
+.part{
+    width: 350px;
+    height: 450px;
+    margin: 55px;
+    border-radius: 20px;
+    border-left: 10px solid rgb(8, 17, 22);
+    float: left;
+    transition: box-shadow 2s;
+  }
+  .part:hover {
+    box-shadow: -20px 20px 10px black;
+  }
+  .date{
+    color: rgb(14, 14, 45);
+    font-size: 30px;
+    padding: 20px;
+  }
+  .parthead{
+    color: rgb(14, 14, 45);
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+  }
+  .partmat{
+    color: black;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+  }
